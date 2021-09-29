@@ -1,3 +1,3 @@
-# Desafios DIO 
+# DIO Challenges
 
-Este repositório foi criado com o intuito de armazenar todo o meu progresso nos bootcamps da DIO. 
+This repo was created in order to store all my progress in the DIO bootcamps.
